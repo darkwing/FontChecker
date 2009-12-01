@@ -51,3 +51,4 @@ var FontChecker = new Class({
 		return (width !== new_width);
 	}
 });
+
